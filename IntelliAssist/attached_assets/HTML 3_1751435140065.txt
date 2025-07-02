@@ -1,4 +1,0 @@
-<!-- From Uiverse.io by mrhyddenn --> 
-<div class="loader">
-    <div class="waves"></div>
-</div>
